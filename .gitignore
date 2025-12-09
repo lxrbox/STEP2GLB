@@ -1,0 +1,7 @@
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.step
+*.STEP
+*.glb
